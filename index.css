@@ -1,8 +1,13 @@
 body {
-    margin: 0;
+    margin: 0 auto;
     padding: 10px;
     font-family: system-ui;
-    min-width: 400px;
+    min-width: 302px;
+}
+
+label {
+    color: 708090;
+    font-weight: 900;
 }
 
 input {
